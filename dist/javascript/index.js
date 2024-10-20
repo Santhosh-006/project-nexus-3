@@ -1,7 +1,10 @@
 const bars = document.getElementById("bars")
 const navlinks  = document.getElementById("navlinks")
 
-function navbar(){
+document.querySelector("#bars").addEventListener("click", navbarResponsive);
+
+function navbarResponsive(){
+  console.log("Error")
     if (navlinks.classList.contains("top-[-1000px]")) {
         navlinks.classList.remove("top-[-1000px]");
         navlinks.classList.add("top-[70px]");
@@ -15,6 +18,8 @@ function navbar(){
       }
 
 }
+
+
 
 // Firebase Authentication
 
