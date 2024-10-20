@@ -31,13 +31,13 @@ This project is a portfolio website for Techy Software Company. It showcases the
    - Basic SEO practices like meta tags, proper headings, and alt texts for images.
 
 7. **Free Hosting**
-   - The website is hosted on a free platform like [Netlify/Vercel/GitHub Pages](https://your-live-link.com) (replace with actual live link).
+   - The website is hosted on a free platform like [GitHub Pages](https://santhosh-006.github.io/project-nexus-3/) (replace with actual live link).
 
 ## Tech Stack
 
 - **Frontend**: Vite, Vanilla JavaScript, TailwindCSS
 - **Backend**: Firebase (for storing user feedback)
-- **Hosting**: [Netlify/Vercel/GitHub Pages](https://your-live-link.com)
+- **Hosting**: [GitHub Pages](https://santhosh-006.github.io/project-nexus-3/)
 <!--
 
 ## Screenshots
@@ -50,7 +50,7 @@ The website includes a feedback form for users to submit their input. All submis
 
 ## Deployment
 
-To view the live website, visit [Live Demo](https://your-live-link.com) (replace with the actual URL).
+To view the live website, visit [Live Demo](https://santhosh-006.github.io/project-nexus-3/) (replace with the actual URL).
 
 ## Setup Instructions
 
